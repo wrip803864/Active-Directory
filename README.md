@@ -13,7 +13,7 @@ All user accounts were created and managed using Powershell.
 # Group Management
 Three security groups were created for the Marvel Rivals domain.
 
-# X-Men
+### X-Men
 Anna Marie(Rogue), Betsy Braddock(Psylocke), Emma Frost, Jean Grey(Phoenix), Logan Howlett(Wolverine),
 Remy LeBeau(Gambit)
 
