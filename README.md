@@ -8,4 +8,12 @@ The name of my domain for this project is marvelrivals.org. The parent Organizat
 All user accounts were created and managed using Powershell. 
 * New-ADUser: Created and enabled multiple user accounts, placing each into their respective OU within the HEROES hierarchy using parameters such as -SamAccountName, -UserPrincipalName, -Path, and -AccountPassword
 * Set-ADUser: Modifies existing accounts including updating email attributes, adding office phone numbers, and toggling account enabled/disabled status — simulating real-world onboarding and offboarding tasks
-* Set-ADAccountPassword — Reset user passwords with the -ChangePasswordAtLogon flag enforced, following security best practices
+* Set-ADAccountPassword — Reset user passwords with the -ChangePasswordAtLogon flag enforced, following security best practices.
+
+# Group Management
+Three security groups were created for the Marvel Rivals domain.
+
+## X-Men
+Anna Marie(Rogue), Betsy Braddock(Psylocke), Emma Frost, Jean Grey(Phoenix), Logan Howlett(Wolverine),
+Remy LeBeau(Gambit)
+
