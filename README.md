@@ -17,3 +17,10 @@ Three security groups were created for the Marvel Rivals domain.
 Anna Marie(Rogue), Betsy Braddock(Psylocke), Emma Frost, Jean Grey(Phoenix), Logan Howlett(Wolverine),
 Remy LeBeau(Gambit)
 
+### Avengers
+Peter Parker(Spider-Man), Steve Rogers(Captain America), Thor Odinson(Thor), Tony Stark(Iron Man)
+
+### Fantastic Four
+Benn Grimm(The Thing), Susan Storm(Invisible Woman), Reed Richards(Mr. Fantastic), Johnny Storm(Human Torch)
+
+
