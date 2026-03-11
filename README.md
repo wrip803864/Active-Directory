@@ -6,3 +6,6 @@ The name of my domain for this project is marvelrivals.org. The parent Organizat
 
 # User Account Management
 All user accounts were created and managed using Powershell. 
+* New-ADUser: Created and enabled multiple user accounts, placing each into their respective OU within the HEROES hierarchy using parameters such as -SamAccountName, -UserPrincipalName, -Path, and -AccountPassword
+* Set-ADUser: Modifies existing accounts including updating email attributes, adding office phone numbers, and toggling account enabled/disabled status — simulating real-world onboarding and offboarding tasks
+* Set-ADAccountPassword — Reset user passwords with the -ChangePasswordAtLogon flag enforced, following security best practices
